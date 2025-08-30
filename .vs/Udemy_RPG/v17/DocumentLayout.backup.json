@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Unity\\Udemy_RPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|c:\\users\\public\\unity\\udemy_rpg\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,28 @@
       "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\entitystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_groundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_groundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|c:\\users\\public\\unity\\udemy_rpg\\assets\\player_movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_airstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_airstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|C:\\Users\\Public\\Unity\\Udemy_RPG\\assets\\player_movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798C6156-C217-E898-B5E5-3358144ABC5C}|Assembly-CSharp.csproj|solutionrelative:assets\\player_movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +46,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Player_GroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_GroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_GroundedState.cs",
+              "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_GroundedState.cs",
+              "RelativeToolTip": "Assets\\Player_GroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:29:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player_AirState.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_AirState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_AirState.cs",
+              "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_AirState.cs",
+              "RelativeToolTip": "Assets\\Player_AirState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:55:57.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player_FallState.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_FallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_FallState.cs",
+              "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_FallState.cs",
+              "RelativeToolTip": "Assets\\Player_FallState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:56:34.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player_JumpState.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_JumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_JumpState.cs",
+              "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_JumpState.cs",
+              "RelativeToolTip": "Assets\\Player_JumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:53:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player_IdleState.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_IdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Player_IdleState.cs",
               "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_IdleState.cs",
               "RelativeToolTip": "Assets\\Player_IdleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:46:38.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T13:46:38.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Player_MoveState.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_MoveState.cs",
               "RelativeDocumentMoniker": "Assets\\Player_MoveState.cs",
               "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player_MoveState.cs",
               "RelativeToolTip": "Assets\\Player_MoveState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T14:07:16.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T14:07:16.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StateMachine.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\StateMachine.cs",
               "RelativeDocumentMoniker": "Assets\\StateMachine.cs",
               "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\StateMachine.cs",
               "RelativeToolTip": "Assets\\StateMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T06:59:04.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EntityState.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\EntityState.cs",
               "RelativeDocumentMoniker": "Assets\\EntityState.cs",
               "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\EntityState.cs",
               "RelativeToolTip": "Assets\\EntityState.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:46:23.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T06:46:23.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Player.cs",
               "ToolTip": "C:\\Users\\Public\\Unity\\Udemy_RPG\\Assets\\Player.cs",
               "RelativeToolTip": "Assets\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwF8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T06:57:28.457Z",
               "EditorCaption": ""

@@ -10,7 +10,8 @@ public class Player_FallState : EntityState
     {
         base.Update();
 
-
+        if (player.groundDetected)
+            stateMachine.ChangeState(player.idleState);
     }
 
 }
